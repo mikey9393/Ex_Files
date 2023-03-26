@@ -1,0 +1,6 @@
+.grid {
+    border: 5px solid rgb(208, 119, 18); /* reference */
+    column-gap: 10px;
+    column-count: 3;
+    padding: 175px 20px 10px 20px;
+}
